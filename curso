@@ -1,0 +1,32 @@
+Primera Marte 
+
+Public static void main(string[]) {
+  int Resultado;
+  resultado = suma (10 + 15 + 50)
+
+System.out.println(resultado)
+
+Public static int suma (int a, int b, int c){
+  resultado= a+b+c
+  }
+}
+
+
+
+
+Segunda parte 
+
+Public class Main {
+
+  Public static void main(string[]) {
+    Coche miCoche = new puerta 
+    miCohe.SumaPuerta();
+
+System.out.println(miCoche.sumaPuerta);
+
+Class Coche {
+
+Public int Puertas = 2;
+
+Public void sumaPuertas() {
+  this.Puerta++;
